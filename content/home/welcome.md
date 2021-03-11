@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Spatial Weights and Matrices Project (SWAMP) is a scholar-driven effort to simplify and share in the analysis of spatial data in the social sciences. Click on the the archive link to explore submitted data. 
+SWAMP is a scholar-driven effort to simplify and share in the analysis of spatial data in the social sciences. Click on the the archive link to explore submitted data. 
