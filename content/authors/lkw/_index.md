@@ -21,21 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Voting Behavior 
+- Party Competition 
+- Methodology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Science
+    institution: Texas A&M University
     year: 2008
+  - course: BS in Political Science
+    institution: University of Nebraska at Kearney,
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:williamslaro@missouri.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=mf4yXbAAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -69,4 +66,4 @@ user_groups:
 - Co-Directors
 ---
 
-Laron K. Williams joined the political science department in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney.
+Laron K. Williams joined the political science department in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney. Dr. Williams’ research interests include examining political behavior in advanced democracies, creating methods to improve substantive interpretation of empirical models, and exploring the domestic political consequences of foreign policy. His research has been published in the *American Journal of Political Science*, *Political Analysis*, the *Journal of Politics*, *International Studies Quarterly*, and the *British Journal of Political Science*, among others.

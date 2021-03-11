@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Lost in Space: News, Posts, and Tutorials on Spatial Applications to Social Science
 
 # View.
 #   1 = List
