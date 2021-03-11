@@ -9,26 +9,21 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
-  weight = 20
-
-[[main]]
   name = "Archive"
   url = "archive"
-  weight = 30
+  weight = 20
   
 [[main]]
-  name = "Posts"
-  url = "posts"
-  weight = 40 
+  name = "Lost in Space"
+  url = "lost"
+  weight = 30 
   
 [[main]]
   name = "People"
   url = "people"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 50
