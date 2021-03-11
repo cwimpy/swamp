@@ -8,8 +8,6 @@
 # Title of your site
 title = "SWAMP"
 
-i_am_a_sponsor = true
-
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://swam.netlify.app"
@@ -21,6 +19,8 @@ copyright = "&copy; 2021 Laron K. Williams & Cameron Wimpy"
 ############################
 ## Advanced options below ##
 ############################
+
+i_am_a_sponsor = true
 
 # Get last modified date for content from Git?
 enableGitInfo = false
