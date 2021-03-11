@@ -1,5 +1,5 @@
 ---
-title: Lost in Space: News, Posts, and Tutorials on Spatial Applications to Social Science
+title: Lost in Space
 
 # View.
 #   1 = List
@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "News, Posts, and Tutorials on Spatial Applications to Social Science"
   image: ""
 ---
