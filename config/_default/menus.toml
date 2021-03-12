@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "Publication"
-  url = "publication"
+  name = "Archive"
+  url = "archive"
   weight = 20
   
 [[main]]
