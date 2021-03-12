@@ -1,6 +1,6 @@
 ---
 title: Spatial Weights and Matrices Archive
-view: 2
+view: 4
 
 header:
   caption: ""

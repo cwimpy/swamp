@@ -83,7 +83,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Directors
+- Principal Investigators
 ---
 
 Cameron Wimpy is a political scientist at Arkansas State University with interests in political economy, political methodology, and political violence. He is an affiliate faculty with the Center for No Boundary Thinking at A-State. He formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where he managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). He grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. He has published peer-reviewed articles in the *Journal of Politics*, *Political Science Research and Methods*, and *Social Science Quarterly*, among others.

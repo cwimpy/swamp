@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Directors
+- Principal Investigators
 ---
 
 Laron K. Williams joined the political science department at Missouri in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney. Dr. Williams’ research interests include examining political behavior in advanced democracies, creating methods to improve substantive interpretation of empirical models, and exploring the domestic political consequences of foreign policy. His research has been published in the *American Journal of Political Science*, *Political Analysis*, the *Journal of Politics*, *International Studies Quarterly*, and the *British Journal of Political Science*, among others.
