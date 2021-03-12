@@ -1,5 +1,6 @@
 ---
 title: "Bureaucracy and the Failure of Politics: Challenges to Democratic Governance"
+type: publication
 authors:
 - Kenneth J. Meier
 - Mallory Compton

@@ -1,5 +1,6 @@
 ---
 title: "Developing Smokeless Tobacco Prevention Messaging for At-Risk Youth: Early Lessons from 'The Real Cost' Smokeless Campaign"
+type: publication
 authors:
 - Matthew W. Walker
 - Sarah A. Evans

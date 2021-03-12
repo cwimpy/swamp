@@ -1,5 +1,6 @@
 ---
 title: "What Is and What May Never Be: Economic Voting in Developing Democracies"
+type: publication
 authors:
 - admin
 - Guy D. Whitten

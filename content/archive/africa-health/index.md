@@ -1,5 +1,6 @@
 ---
 title: "Administrative Capacity and Health Care in Africa: Path Dependence as a Contextual Variable"
+type: publication
 authors:
 - admin
 - Marlette Jackson

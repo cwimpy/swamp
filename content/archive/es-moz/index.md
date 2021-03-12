@@ -1,5 +1,6 @@
 ---
 title: "The 2009 Presidential and Parliamentary elections in Mozambique"
+type: publication
 authors:
 - admin
 date: "2011-06-01T00:00:00Z"

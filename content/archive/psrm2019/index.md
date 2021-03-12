@@ -1,5 +1,6 @@
 ---
 title: "Interpretation: The Final Spatial Frontier"
+type: publication
 authors:
 - Guy D. Whitten
 - Laron K. Williams

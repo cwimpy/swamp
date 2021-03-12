@@ -1,5 +1,6 @@
 ---
 title: "Does Information Lead to Emulation? Spatial Dependence in Anti-Government Violence"
+type: publication
 authors:
 - Blake E. Garcia
 - admin

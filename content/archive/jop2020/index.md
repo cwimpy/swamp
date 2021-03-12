@@ -1,5 +1,6 @@
 ---
 title: "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
+type: publication
 authors:
 - admin
 - Guy D. Whitten

@@ -1,5 +1,6 @@
 ---
 title: "Are Media at Work in Your Neighborhood? The Effects of Media Freedom, Internet Access, and Information Spillover on Workers’ Rights"
+type: publication
 authors:
 - Christopher McKallagat
 - Flávio D. S. Souza
