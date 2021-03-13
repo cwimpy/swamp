@@ -1,5 +1,6 @@
 ---
 title: Lost in Space
+subtitle: News, Posts, and Tutorials on Spatial Applications to Social Science
 
 # View.
 #   1 = List

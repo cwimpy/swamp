@@ -20,7 +20,7 @@ copyright = "&copy; 2021 Laron K. Williams & Cameron Wimpy"
 ## Advanced options below ##
 ############################
 
-i_am_a_sponsor = true
+
 
 # Get last modified date for content from Git?
 enableGitInfo = false
