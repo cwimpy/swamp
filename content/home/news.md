@@ -22,3 +22,5 @@ design:
   view: 3
   columns: "1"
 ---
+
+We are up and running with SWAMP!
