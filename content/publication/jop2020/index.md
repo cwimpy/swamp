@@ -40,7 +40,6 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-- Source Themes
 url_pdf: uploads/jop-preprint.pdf
 url_code: https://doi.org/10.1086/710089
 url_dataset: https://doi.org/10.7910/DVN/RFYOH6
