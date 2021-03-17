@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-- name: Weights Matrix
+- name: Custom Link
   url: http://example.org
 url_pdf: uploads/jop-preprint.pdf
 url_code: https://doi.org/10.1086/710089
